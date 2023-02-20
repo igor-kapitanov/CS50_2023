@@ -1,0 +1,110 @@
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                       description                                                                                                        |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Theft of the CS50 duck took place at 10:15am at the Humphrey Street bakery. Interviews were conducted today with three witnesses who were present at the time – each of their interview transcripts mentions the bakery. |
+| Littering took place at 16:36. No known witnesses.                                                                                                                                                                       |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  name   |                                                                                                                                                     transcript                                                                                                                                                      |
++---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Jose    | “Ah,” said he, “I forgot that I had not seen you for some weeks. It is a little souvenir from the King of Bohemia in return for my assistance in the case of the Irene Adler papers.”                                                                                                                               |
+| Eugene  | “I suppose,” said Holmes, “that when Mr. Windibank came back from France he was very annoyed at your having gone to the ball.”                                                                                                                                                                                      |
+| Barbara | “You had my note?” he asked with a deep harsh voice and a strongly marked German accent. “I told you that I would call.” He looked from one to the other of us, as if uncertain which to address.                                                                                                                   |
+| Ruth    | Sometime within ten minutes of the theft, I saw the thief get into a car in the bakery parking lot and drive away. If you have security footage from the bakery parking lot, you might want to look for cars that left the parking lot in that time frame.                                                          |
+| Eugene  | I don't know the thief's name, but it was someone I recognized. Earlier this morning, before I arrived at Emma's bakery, I was walking by the ATM on Leggett Street and saw the thief there withdrawing some money.                                                                                                 |
+| Raymond | As the thief was leaving the bakery, they called someone who talked to them for less than a minute. In the call, I heard the thief say that they were planning to take the earliest flight out of Fiftyville tomorrow. The thief then asked the person on the other end of the phone to purchase the flight ticket. |
+| Lily    | Our neighboring courthouse has a very annoying rooster that crows loudly at 6am every day. My sons Robert and Patrick took the rooster to a city far, far away, so it may never bother us again. My sons have successfully arrived in Paris.                                                                        |
++---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++--------+
+|  name  |
++--------+
+| Eugene |
++--------+
++---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  name   |                                                                                                                                                     transcript                                                                                                                                                      |
++---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Eugene  | I don't know the thief's name, but it was someone I recognized. Earlier this morning, before I arrived at Emma's bakery, I was walking by the ATM on Leggett Street and saw the thief there withdrawing some money.                                                                                                 |
+| Raymond | As the thief was leaving the bakery, they called someone who talked to them for less than a minute. In the call, I heard the thief say that they were planning to take the earliest flight out of Fiftyville tomorrow. The thief then asked the person on the other end of the phone to purchase the flight ticket. |
+| Ruth    | Sometime within ten minutes of the theft, I saw the thief get into a car in the bakery parking lot and drive away. If you have security footage from the bakery parking lot, you might want to look for cars that left the parking lot in that time frame.                                                          |
++---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------------+--------+
+| account_number | amount |
++----------------+--------+
+| 28500762       | 48     |
+| 28296815       | 20     |
+| 76054385       | 60     |
+| 49610011       | 50     |
+| 16153065       | 80     |
+| 25506511       | 20     |
+| 81061156       | 30     |
+| 26013199       | 35     |
++----------------+--------+
++---------+--------+
+|  name   | amount |
++---------+--------+
+| Bruce   | 50     |
+| Diana   | 35     |
+| Brooke  | 80     |
+| Kenny   | 20     |
+| Iman    | 20     |
+| Luca    | 48     |
+| Taylor  | 60     |
+| Benista | 30     |
++---------+--------+
++--------------+-----------------------------+------------+
+| abbreviation |          full_name          |    city    |
++--------------+-----------------------------+------------+
+| CSF          | Fiftyville Regional Airport | Fiftyville |
++--------------+-----------------------------+------------+
++-----------+--------+-----------------+------+
+| flight_id |  name  | passport_number | seat |
++-----------+--------+-----------------+------+
+| 36        | Edward | 1540955065      | 5C   |
+| 36        | Sofia  | 1695452385      | 3B   |
+| 36        | Taylor | 1988161715      | 6D   |
+| 36        | Bruce  | 5773159633      | 4A   |
+| 36        | Doris  | 7214083635      | 2A   |
+| 36        | Kelsey | 8294398571      | 6C   |
+| 36        | Luca   | 8496433585      | 7B   |
+| 36        | Kenny  | 9878712108      | 7A   |
++-----------+--------+-----------------+------+
++---------+----------+
+|  name   | duration |
++---------+----------+
+| Kelsey  | 36       |
+| Carina  | 38       |
+| Taylor  | 43       |
+| Bruce   | 45       |
+| Diana   | 49       |
+| Kelsey  | 50       |
+| Sofia   | 51       |
+| Benista | 54       |
+| Kenny   | 55       |
+| Kathryn | 60       |
++---------+----------+
++------------+----------+
+|    name    | duration |
++------------+----------+
+| Larry      | 36       |
+| Jacqueline | 38       |
+| James      | 43       |
+| Robin      | 45       |
+| Philip     | 49       |
+| Melissa    | 50       |
+| Jack       | 51       |
+| Anna       | 54       |
+| Doris      | 55       |
+| Luca       | 60       |
++------------+----------+
++---------+------+--------+
+|  name   | hour | minute |
++---------+------+--------+
+| Vanessa | 10   | 16     |
+| Bruce   | 10   | 18     |
+| Barry   | 10   | 18     |
+| Luca    | 10   | 19     |
+| Sofia   | 10   | 20     |
+| Iman    | 10   | 21     |
+| Diana   | 10   | 23     |
+| Kelsey  | 10   | 23     |
++---------+------+--------+
